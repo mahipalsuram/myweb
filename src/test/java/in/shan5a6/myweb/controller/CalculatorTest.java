@@ -1,4 +1,4 @@
-package in.shan5a6.myweb.controller;
+package in.mahipalsuram.myweb.controller;
 
 import junit.framework.Assert;
 import junit.framework.TestCase;
